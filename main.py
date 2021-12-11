@@ -1,4 +1,5 @@
 import time
+import sys
 import day_1.aoc_run
 import day_2.aoc_run
 import day_3.aoc_run
@@ -155,6 +156,11 @@ def run(day, filename):
     else:
         print("Arg must be an integer between 1 and 25")
 
+# run(11, SAMPLE)
+# run(11, DATA)
 
-run(11, SAMPLE)
-run(11, DATA)
+
+if __name__ == "__main__":
+    d = int(sys.argv[1])
+    fn = str(sys.argv[2])
+    run(d, fn)
