@@ -6,6 +6,7 @@ NOTE: It's very importand that the data in the .txt file is exactly the way it w
 
 Simply run main from the command line with the day number and name of .txt file:
 > python3 main.py <day> <filename>
+
 Example:
 > python3 main.py 2 sample
 
