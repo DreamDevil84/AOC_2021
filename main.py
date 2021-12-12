@@ -25,8 +25,6 @@ import day_22.aoc_run
 import day_23.aoc_run
 import day_24.aoc_run
 import day_25.aoc_run
-DATA = 'input'
-SAMPLE = 'sample'
 
 
 # Awful if trees :(
@@ -156,8 +154,12 @@ def run(day, filename):
     else:
         print("Arg must be an integer between 1 and 25")
 
-# run(11, SAMPLE)
-# run(11, DATA)
+
+DATA = 'input'
+SAMPLE = 'sample'
+
+# run(12, SAMPLE)
+# run(12, DATA)
 
 
 if __name__ == "__main__":
