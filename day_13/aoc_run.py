@@ -53,7 +53,8 @@ class TransparentPaper:
                 else:
                     row += '.'
             string += row + '\n'
-        return string
+        # Remove final newline for neater result on printout
+        return string[:-1]
 
 
 def get_paper(string_array: [str]):
