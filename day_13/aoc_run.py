@@ -51,7 +51,7 @@ class TransparentPaper:
                 if cell:
                     row += '#'
                 else:
-                    row += '.'
+                    row += ' '
             string += row + '\n'
         # Remove final newline for neater result on printout
         return string[:-1]
