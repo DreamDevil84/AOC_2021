@@ -158,8 +158,8 @@ def run(day, filename):
 DATA = 'input'
 SAMPLE = 'sample'
 
-# run(17, SAMPLE)
-# run(17, DATA)
+# run(18, SAMPLE)
+# run(18, DATA)
 
 
 if __name__ == "__main__":
