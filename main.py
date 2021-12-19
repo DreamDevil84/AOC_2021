@@ -134,8 +134,9 @@ def run(day, filename):
             print(day_17.aoc_run.part_2(get_data(day, filename)))
         if day == 18:
             print(day_18.aoc_run.part_2(get_data(day, filename)))
-        if day == 19:
-            print(day_19.aoc_run.part_2(get_data(day, filename)))
+        # day 19 is very slow and best done with a single function
+        # if day == 19:
+        #     print(day_19.aoc_run.part_2(get_data(day, filename)))
         if day == 20:
             print(day_20.aoc_run.part_2(get_data(day, filename)))
         if day == 21:
@@ -158,8 +159,8 @@ def run(day, filename):
 DATA = 'input'
 SAMPLE = 'sample'
 
-# run(18, SAMPLE)
-# run(18, DATA)
+# run(19, SAMPLE)
+# run(19, DATA)
 
 
 if __name__ == "__main__":
