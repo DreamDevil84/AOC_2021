@@ -159,8 +159,8 @@ def run(day, filename):
 DATA = 'input'
 SAMPLE = 'sample'
 
-# run(19, SAMPLE)
-# run(19, DATA)
+# run(20, SAMPLE)
+# run(20, DATA)
 
 
 if __name__ == "__main__":
