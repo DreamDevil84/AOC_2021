@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d5fc8b9-1573-49df-8eca-a4b68461e5a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AOC2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AOC2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_21/aoc_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_21/aoc_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_22/aoc_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_22/aoc_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_22/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_22/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_22/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_22/sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,5 +79,16 @@
       <updated>1640109893857</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day_22/aoc_run.py</url>
+          <line>342</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

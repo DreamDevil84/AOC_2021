@@ -159,11 +159,11 @@ def run(day, filename):
 DATA = 'input'
 SAMPLE = 'sample'
 
-# run(21, SAMPLE)
-# run(21, DATA)
+run(22, SAMPLE)
+# run(22, DATA)
 
 
-if __name__ == "__main__":
-    d = int(sys.argv[1])
-    fn = str(sys.argv[2])
-    run(d, fn)
+# if __name__ == "__main__":
+#     d = int(sys.argv[1])
+#     fn = str(sys.argv[2])
+#     run(d, fn)
